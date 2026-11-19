@@ -1,0 +1,115 @@
+schedule_id,staff_id,role,day_of_week,time_slot,session_type,duration_hours,available_flag
+SCH001,STF06,Physiotherapist,Monday,Morning (07:00-09:00),Fitness Assessment,2.0,Yes
+SCH002,STF01,coach ,Monday,Morning (07:00-09:00),Match Prep,2.0,Yes
+SCH003,STF10,Support Staff,Monday,Morning (07:00-09:00),Injury Rehab,2.0,Yes
+SCH004,STF07,Physiotherapist,Monday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH005,STF03,Coach,Monday,Morning (07:00-09:00),Fitness Assessment,,Yes
+SCH006,STF02,Coach,Monday,Morning (07:00-09:00),Tactical Drill,2.0,Yes
+SCH007,STF10,Support Staff,Monday,Midday (10:00-12:00),Fitness Assessment,2.0,Yes
+SCH008,STF03,Coach,Monday,Midday (10:00-12:00),Match Prep,2.0,Yes
+SCH009,STF09,Support Staff,Monday,Midday (10:00-12:00),Strength & Conditioning,2.0,Yes
+SCH010,STF02,Coach,Monday,Afternoon (14:00-16:00),Fitness Assessment,2.0,Yes
+SCH011,STF06,Physiotherapist,Monday,Afternoon (14:00-16:00),Strength & Conditioning,2.0,Yes
+SCH012,STF03,Coach,Monday,Evening (17:00-19:00),Fitness Assessment,2.0,Yes
+SCH013,STF07,Physiotherapist,Monday,Evening (17:00-19:00),Tactical Drill,2.0,Yes
+SCH014,STF08,Support Staff,Monday,Evening (17:00-19:00),Match Prep,2.0,Yes
+SCH015,STF05,Trainer,Monday,Evening (17:00-19:00),Match Prep,2.0,Yes
+SCH016,STF10,Support Staff,Monday,Evening (17:00-19:00),,2.0,Yes
+SCH017,STF06,Physiotherapist,Monday,Evening (17:00-19:00),Match Prep,2.0,Yes
+SCH018,STF07,Physiotherapist,Tuesday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH019,STF09,Support Staff,Tuesday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH020,STF05,Trainer,Tuesday,Morning (07:00-09:00),Tactical Drill,2.0,Yes
+SCH021,STF10,Support Staff,Tuesday,Morning (07:00-09:00),Match Prep,2.0,Yes
+SCH022,STF05,Trainer,Tuesday,Midday (10:00-12:00),Fitness Assessment,2.0,Yes
+SCH023,STF03,Coach,Tuesday,Midday (10:00-12:00),Fitness Assessment,2.0,Yes
+SCH024,STF08,Support Staff,Tuesday,Midday (10:00-12:00),Tactical Drill,2.0,Yes
+SCH025,STF09,Support Staff,Tuesday,Afternoon (14:00-16:00),Fitness Assessment,2.0,Yes
+SCH026,STF03,Coach,Tuesday,Afternoon (14:00-16:00),Fitness Assessment,2.0,Yes
+SCH027,STF07,Physiotherapist,Tuesday,Afternoon (14:00-16:00),Strength & Conditioning,2.0,Yes
+SCH028,STF10,Support Staff,Tuesday,Afternoon (14:00-16:00),Strength & Conditioning,2.0,Yes
+SCH029,STF02,Coach,Tuesday,Evening (17:00-19:00),Strength & Conditioning,2.0,Yes
+SCH030,STF07,Physiotherapist,Tuesday,Evening (17:00-19:00),Injury Rehab,2.0,Yes
+SCH031,STF05,Trainer,Tuesday,Evening (17:00-19:00),Fitness Assessment,2.0,Yes
+SCH032,STF10,Support Staff,Tuesday,Evening (17:00-19:00),Tactical Drill,2.0,Yes
+SCH033,STF06,Physiotherapist,Tuesday,Evening (17:00-19:00),Tactical Drill,2.0,Yes
+SCH034,STF03,Coach,Tuesday,Evening (17:00-19:00),Strength & Conditioning,2.0,Yes
+SCH035,STF10,Support Staff,Wednesday,Morning (07:00-09:00),Injury Rehab,2.0,Yes
+SCH036,STF06,Physiotherapist,Wednesday,Morning (07:00-09:00),Strength & Conditioning,2.0,Yes
+SCH037,STF07,Physiotherapist,Wednesday,Morning (07:00-09:00),Injury Rehab,2.0,Yes
+SCH038,STF03,Coach,Wednesday,Morning (07:00-09:00),Fitness Assessment,2.0,Yes
+SCH039,STF05,Trainer,Wednesday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH040,STF01,Coach,Wednesday,Morning (07:00-09:00),Injury Rehab,2.0,Yes
+SCH041,STF10,Support Staff,Wednesday,Midday (10:00-12:00),Tactical Drill,2.0,Yes
+SCH042,STF02,Coach,Wednesday,Midday (10:00-12:00),Match Prep,2.0,Yes
+SCH043,STF06,Physiotherapist,Wednesday,Afternoon (14:00-16:00),Fitness Assessment,2.0,Yes
+SCH044,STF10,Support Staff,Wednesday,Afternoon (14:00-16:00),Injury Rehab,2.0,Yes
+SCH045,STF09,Support Staff,Wednesday,Evening (17:00-19:00),Equipment Setup,2.0,Yes
+SCH046,STF01,Coach,Wednesday,Evening (17:00-19:00),Strength & Conditioning,2.0,Yes
+SCH047,STF05,Trainer,Wednesday,Evening (17:00-19:00),Fitness Assessment,2.0,Yes
+SCH048,STF02,Coach,Wednesday,Evening (17:00-19:00),Equipment Setup,2.0,Yes
+SCH049,STF02,Coach,Thursday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH050,STF03,Coach,Thursday,Morning (07:00-09:00),Strength & Conditioning,2.0,Yes
+SCH051,STF08,Support Staff,Thursday,Morning (07:00-09:00),Match Prep,2.0,Yes
+SCH052,STF05,Trainer,Thursday,Morning (07:00-09:00),Fitness Assessment,2.0,Yes
+SCH053,STF09,Support Staff,Thursday,Morning (07:00-09:00),Strength & Conditioning,2.0,Yes
+SCH054,STF04,Trainer,Thursday,Midday (10:00-12:00),Match Prep,2.0,Yes
+SCH055,STF02,Coach,Thursday,Midday (10:00-12:00),Injury Rehab,2.0,Yes
+SCH056,STF10,Support Staff,Thursday,Midday (10:00-12:00),Equipment Setup,2.0,Yes
+SCH057,STF09,Support Staff,Thursday,Midday (10:00-12:00),Strength & Conditioning,2.0,Yes
+SCH058,STF07,Physiotherapist,Thursday,Afternoon (14:00-16:00),Strength & Conditioning,2.0,Yes
+SCH059,STF05,Trainer,Thursday,Afternoon (14:00-16:00),Injury Rehab,2.0,Yes
+SCH060,STF08,Support Staff,Thursday,Evening (17:00-19:00),Tactical Drill,2.0,Yes
+SCH061,STF09,Support Staff,Thursday,Evening (17:00-19:00),Fitness Assessment,2.0,Yes
+SCH062,STF03,Coach,Thursday,Evening (17:00-19:00),Match Prep,2.0,Yes
+SCH063,STF07,Physiotherapist,Thursday,Evening (17:00-19:00),Tactical Drill,2.0,Yes
+SCH064,STF05,Trainer,Friday,Morning (07:00-09:00),Fitness Assessment,2.0,Yes
+SCH065,STF09,Support Staff,Friday,Morning (07:00-09:00),Match Prep,2.0,Yes
+SCH066,STF02,Coach,Friday,Morning (07:00-09:00),Tactical Drill,2.0,Yes
+SCH067,STF06,Physiotherapist,Friday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH068,STF01,Coach,Friday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH069,STF10,Support Staff,Friday,Midday (10:00-12:00),Injury Rehab,2.0,Yes
+SCH070,STF02,Coach,Friday,Midday (10:00-12:00),Tactical Drill,2.0,Yes
+SCH071,STF08,Support Staff,Friday,Midday (10:00-12:00),Injury Rehab,2.0,Yes
+SCH072,STF07,Physiotherapist,Friday,Midday (10:00-12:00),Injury Rehab,2.0,Yes
+SCH073,STF06,Physiotherapist,Friday,Afternoon (14:00-16:00),Tactical Drill,2.0,Yes
+SCH074,STF10,Support Staff,Friday,Afternoon (14:00-16:00),Equipment Setup,2.0,Yes
+SCH075,STF05,Trainer,Friday,Afternoon (14:00-16:00),Tactical Drill,2.0,Yes
+SCH076,STF03,Coach,Friday,Afternoon (14:00-16:00),Injury Rehab,2.0,Yes
+SCH077,STF07,Physiotherapist,Friday,Evening (17:00-19:00),Fitness Assessment,2.0,Yes
+SCH078,STF03,Coach,Friday,Evening (17:00-19:00),Fitness Assessment,2.0,Yes
+SCH079,STF05,Trainer,Friday,Evening (17:00-19:00),Injury Rehab,2.0,Yes
+SCH080,STF06,Physiotherapist,Friday,Evening (17:00-19:00),Strength & Conditioning,2.0,Yes
+SCH081,STF02,Coach,Friday,Evening (17:00-19:00),Strength & Conditioning,2.0,Yes
+SCH082,STF01,Coach,Friday,Evening (17:00-19:00),Injury Rehab,2.0,Yes
+SCH083,STF05,Trainer,Saturday,Morning (07:00-09:00),Match Prep,2.0,Yes
+SCH084,STF02,Coach,Saturday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH085,STF07,Physiotherapist,Saturday,Morning (07:00-09:00),Match Prep,2.0,Yes
+SCH086,STF10,Support Staff,Saturday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH087,STF09,Support Staff,Saturday,Morning (07:00-09:00),Injury Rehab,2.0,Yes
+SCH088,STF01,Coach,Saturday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH089,STF10,Support Staff,Saturday,Midday (10:00-12:00),Fitness Assessment,2.0,Yes
+SCH090,STF01,Coach,Saturday,Midday (10:00-12:00),Strength & Conditioning,2.0,Yes
+SCH091,STF07,Physiotherapist,Saturday,Afternoon (14:00-16:00),Match Prep,2.0,Yes
+SCH092,STF02,Coach,Saturday,Afternoon (14:00-16:00),Injury Rehab,2.0,Yes
+SCH093,STF01,Coach,Saturday,Evening (17:00-19:00),Injury Rehab,2.0,Yes
+SCH094,STF04,Trainer,Saturday,Evening (17:00-19:00),Injury Rehab,2.0,Yes
+SCH095,STF02,Coach,Saturday,Evening (17:00-19:00),Tactical Drill,2.0,Yes
+SCH096,STF03,Coach,Saturday,Evening (17:00-19:00),Fitness Assessment,2.0,Yes
+SCH097,STF05,Trainer,Saturday,Evening (17:00-19:00),Equipment Setup,2.0,Yes
+SCH098,STF09,Support Staff,Saturday,Evening (17:00-19:00),Strength & Conditioning,2.0,Yes
+SCH099,STF07,Physiotherapist,Sunday,Morning (07:00-09:00),Strength & Conditioning,2.0,No
+SCH100,STF02,Coach,Sunday,Morning (07:00-09:00),Match Prep,2.0,Yes
+SCH101,STF10,Support Staff,Sunday,Morning (07:00-09:00),Match Prep,2.0,Yes
+SCH102,STF06,Physiotherapist,Sunday,Morning (07:00-09:00),Equipment Setup,2.0,No
+SCH103,STF08,Support Staff,Sunday,Morning (07:00-09:00),Fitness Assessment,2.0,Yes
+SCH104,STF03,Coach,Sunday,Morning (07:00-09:00),Equipment Setup,2.0,Yes
+SCH105,STF02,Coach,Sunday,Midday (10:00-12:00),Equipment Setup,2.0,Yes
+SCH106,STF02,Coach,Sunday,Afternoon (14:00-16:00),Injury Rehab,2.0,Yes
+SCH107,STF09,Support Staff,Sunday,Afternoon (14:00-16:00),Tactical Drill,2.0,Yes
+SCH108,STF01,Coach,Sunday,Evening (17:00-19:00),Tactical Drill,2.0,Yes
+SCH109,STF01,Coach,Monday,Evening (17:00-19:00),Match Prep,2.0,Yes
+SCH110,STF04,Trainer,Wednesday,Morning (07:00-09:00),Fitness Assessment,2.0,Yes
+SCH111,STF06,Physiotherapist,Friday,Evening (17:00-19:00),Injury Rehab,2.0,Yes
+SCH112,STF02,Coach,Tuesday,Evening (17:00-19:00),Tactical Drill,2.0,Yes
+SCH001,STF06,Physiotherapist,Monday,Morning (07:00-09:00),Fitness Assessment,2.0,Yes
+SCH002,STF01,coach ,Monday,Morning (07:00-09:00),Match Prep,2.0,Yes
